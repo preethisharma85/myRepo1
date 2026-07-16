@@ -1,7 +1,7 @@
 Release Notes
 Change 1: Change made in main to track to file
 Change 2: Change made in new1 to track in main
-
+Change 3: Made through github. Verify pull request.
 Version: v1.0
 Release Title: Initial Approved Syllabus Improvement Baseline
 
