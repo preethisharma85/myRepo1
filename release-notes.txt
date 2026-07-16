@@ -16,3 +16,4 @@ Known Issues:
 2. Word/PPT/Excel files are tracked but not suitable for detailed line-wise merge.
 
 Change 2:Change made in new2 to track in main
+Change 3: Testing git squash
