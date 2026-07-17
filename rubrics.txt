@@ -3,6 +3,8 @@ Practical Evaluation Rubric
 Change 1:Made by Preethi
 Change 2:To verify staging and commit
 Change 3:********Added change to verify collaborator push and pull*****
+Change 4: Testing Hooks - without the keyword
+Change 5: Testing Hooks - With the keyword "Assumptions"
 
 Change 4: Testing git squash from new1 branch
 Change 5: Testing git squash from new1 branch - for commit 2
@@ -31,5 +33,4 @@ Marks: 15
 Description: Student uses revert, tags and history inspection to maintain reliable versions.
 Change 3 : Verify Cherry-pick
 
-Change 4: Testing Hooks - without the keyword
-Change 5: Testing Hooks - With the keyword "Assumptions"
+
